@@ -28,7 +28,7 @@ public class CartSD {
 	public void clicks_on_add_to_cart() throws Throwable {
 		cart.addcart();
 	}
-
+////Hello
 	@Given("^url opens in chrome browser$")
 	public void url_opens_in_chrome_browser() throws Throwable {
 		cart.url();
